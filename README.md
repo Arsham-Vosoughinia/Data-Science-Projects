@@ -1,2 +1,2 @@
-# -DataScience
-DatScience projects
+# Data Science Projects
+Data Science Projects
